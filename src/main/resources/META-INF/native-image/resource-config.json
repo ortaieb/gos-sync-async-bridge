@@ -1,0 +1,22 @@
+{
+  "resources": {
+    "includes": [
+      {
+        "pattern": "application\\.properties"
+      },
+      {
+        "pattern": "META-INF/resources/.*"
+      },
+      {
+        "pattern": "META-INF/services/.*"
+      },
+      {
+        "pattern": ".*\\.proto"
+      },
+      {
+        "pattern": "com/orta/gos/.*"
+      }
+    ]
+  },
+  "bundles": []
+}
